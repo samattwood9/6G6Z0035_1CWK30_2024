@@ -30,7 +30,7 @@
 
     Under the test responsibilities section you should put yourself as the Lead Tester. If you feel like you'll need additional resource, you should assign some responsibilities to the wider team: Me (Senior Software Tester), Alice (Software Tester), Bob (Software Tester).
 
-    Look forward to meeting you at the next Four Walls away day!
+    Look forward to meeting you at the next Four Walls Software away day!
 
     Thanks,
     Jessica
