@@ -28,7 +28,9 @@
     14.	Approvals
     15.	Appendices
 
-    Under the test responsibilities section you should put yourself as the Lead Tester. If you feel like you'll need additional resource, you should assign some responsibilities to the wider team: Me (Senior Software Tester), Alice (Software Tester), Bob (Software Tester).
+    Under the test responsibilities section you should put yourself as the Lead Tester. If you feel like you'll need additional resource, you should assign some responsibilities to the wider team: Alice (Software Tester) and Bob (Software Tester).
+
+    As a Senior Software Tester I'm acting as the QA Lead for the QA Team, so I'll need to approve your test plan before it is issued. Mauro is acting as the Project Manager across all of our ongoing work, so they should be included in the approvals too.
 
     Look forward to meeting you at the next Four Walls Software away day!
 
