@@ -11,3 +11,4 @@ It is recommended that you read the supplementary documents in the following ord
 3. Requirements Specification.
 4. Test Plan Structure & Responsibilities (Email Summary)
 5. Company Logo (Email)
+6. Brand guidelines (Folder)
