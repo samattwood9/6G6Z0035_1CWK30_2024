@@ -4,9 +4,10 @@ This repository contains the supplementary documents you should refer to and ana
 
 ## Supplementary documents
 
-You should read the supplementary documents in the following order:
+It is recommended that you read the supplementary documents in the following order:
 
 1. Status Update (Email Summary).
 2. Memorandum of Understanding (Email Summary).
 3. Requirements Specification.
 4. Test Plan Structure & Responsibilities (Email Summary)
+5. Company Logo (Email)
